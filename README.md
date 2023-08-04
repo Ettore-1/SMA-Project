@@ -13,4 +13,4 @@ I will evaluate 3 main components.
 - The third thing is the discussion about your results. Again, remember that you are dealing with oceanographic data. They have a physical meaning and you should be able to comment the outputs.
 
 
-![image](image)
+![image](image.png)
